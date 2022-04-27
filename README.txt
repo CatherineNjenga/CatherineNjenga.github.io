@@ -1,30 +1,23 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Hello!
+
+I'm Catherine, a Software Developer.<br>
+
+I love being part of a diverse team building assessible, responsive and problem-solving products.
+
+## My Projects
+
+* [Movie Card](https://github.com/CatherineNjenga/movie-card), a movies recommendation website based on Studio Ghibli API
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+## Courses I've Taken
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+* [Full Stack Open/University of Helsinki](https://fullstackopen.com/)
+* [Introduction to Programming/Harvard University](cs50.harvard.edu/x/2022/)
 
-(* = not included)
+## Portfolio
 
-AJ
-aj@lkn.io | @ajlkn
+You can visit my [portfolio](https://catherinenjenga.github.io/)
 
+## Contact Me
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+You can reach me at <freshiah.catherine@gmail.com>.
